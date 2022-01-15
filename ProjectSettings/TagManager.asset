@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Item
+  - Potion
+  - Clear
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platform
+  - Enemy
+  - Player
+  - PlayerDamaged
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 556709193
+    locked: 0
+  - name: Finish
+    uniqueID: 936134391
+    locked: 0
+  - name: Player
+    uniqueID: 160376399
+    locked: 0
+  - name: Platform
+    uniqueID: 4214553497
+    locked: 0
+  - name: Item
+    uniqueID: 2858772625
+    locked: 0
