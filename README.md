@@ -1,5 +1,8 @@
 # 아야의 저주를 풀어줘 !
 ### 2D 플랫포머 게임
+골드메탈 기초 강의 기반 변형작
+https://www.youtube.com/watch?v=v_Y5FH_tCpc&list=PLO-mt5Iu5TeZGR_y6mHmTWyo0RyGgO0N_
+
 
 1. 대기화면
 
