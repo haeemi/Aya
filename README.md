@@ -23,20 +23,8 @@
 
 6. 게임오버
 
-![Aya_6](https://user-images.githubusercontent.com/97776933/149635781-8cc417b7-1cdf-4107-9b27-c314be7424b8.gif)
+![Honeycam 2022-01-16 04-57-38](https://user-images.githubusercontent.com/97776933/149636004-8af63de9-2203-4f75-8a04-37bb31316a44.gif)
 
 7. 게임 엔딩
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Honeycam 2022-01-16 04-55-19](https://user-images.githubusercontent.com/97776933/149635980-23109b38-f90a-4f8c-b5e2-91e47e0e8cce.gif)
